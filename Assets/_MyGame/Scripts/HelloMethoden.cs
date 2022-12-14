@@ -49,4 +49,8 @@ public class HelloMethoden : MonoBehaviour
     {
         startValue++;
     }
+
+    // Sinnvoll wäre noch eine Methode zum Tracken von Variablen
+    // das Loggen vor und nach einem Methodenaufruf würde dann in diese Methode ausgelagert werden
+
 }
