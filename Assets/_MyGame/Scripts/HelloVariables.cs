@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class HelloVariablen : MonoBehaviour
+public class HelloVariables : MonoBehaviour
 {
     //Value Types: Wert wirm im Speicher direkt hinterlegt
     int myInt = 0;
