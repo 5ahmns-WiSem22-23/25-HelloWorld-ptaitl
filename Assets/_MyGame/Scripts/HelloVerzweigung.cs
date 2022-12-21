@@ -4,7 +4,7 @@ public class HelloVerzweigung : MonoBehaviour
 {
     void Start()
     {
-        int x = 1;
+        int x = true ? 1 : 2;
 
         #region Variante "if"
         if (x == 0)
